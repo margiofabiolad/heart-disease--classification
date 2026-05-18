@@ -34,7 +34,7 @@ heart-disease-classification/
 - **chol** showed heavily overlapping distributions — weak predictor
 - Younger patients (40–55) tend to have heart disease, likely due to selection bias
 
-![Heart Disease Distribution](heart_disease_distribution.png)
+![Heart Disease Distribution](target_distribution.png)
 ![Age Distribution](age_distribution.png)
 ![Cholesterol and Heart Rate Distribution](cholesterol_distribution.png)
 ![Correlation Matrix](correlation_matrix.png)
