@@ -36,7 +36,7 @@ heart-disease-classification/
 
 ![Heart Disease Distribution](target_distribution.png)
 ![Age Distribution](age_distribution.png)
-![Cholesterol and Heart Rate Distribution](cholesterol_distribution.png)
+![Cholesterol and Heart Rate Distribution](chol_distribution)
 ![Correlation Matrix](correlation_matrix.png)
 
 ## Model results
