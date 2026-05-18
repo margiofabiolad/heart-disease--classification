@@ -12,7 +12,7 @@ model to predict whether a patient has heart disease based on 13 clinical variab
 - **Source:** Kaggle — Heart Disease Dataset
 - **File:** `heart.csv`
 - **Patients:** 1,025
-- **Variables:** 13 clinical features + 1 target variable
+- **Variables:** 12 clinical features + 1 target variable
 - **Class balance:** 526 with disease (51%) / 499 without disease (49%)
 - **Missing values:** None
 
