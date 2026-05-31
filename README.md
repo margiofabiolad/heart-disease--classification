@@ -1,5 +1,7 @@
 # Heart Disease Classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margiofabiolad/heart-disease--classification/blob/master/heart_disease_analysis.ipynb) `heart_disease_analysis.ipynb`
+
 A data analysis and machine learning project to predict heart disease 
 using clinical data from 1,025 patients.
 
